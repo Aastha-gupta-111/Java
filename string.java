@@ -1,6 +1,0 @@
-/**
- * string
- */
-public class string {
-
-}
